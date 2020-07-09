@@ -1,0 +1,20 @@
+#navega li{
+    display:inline;
+    padding-right: 40px;
+
+}
+
+#tudoc{
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+#boton{
+    text-align: center;
+    position: relative;
+    left: 100px;
+    width: 120px;
+    height: 40px;
+    background-color:#575454;
+    color: white;
+}
