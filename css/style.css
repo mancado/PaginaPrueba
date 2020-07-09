@@ -9,6 +9,12 @@
     font-size: 35px;
 }
 
+
+#medico{
+    font-weight: bolder;
+    font-size: 25px;
+}
+
 #boton{
     text-align: center;
     position: relative;
@@ -17,4 +23,36 @@
     height: 40px;
     background-color:#575454;
     color: white;
+}
+
+a{
+    text-align: justify;
+}
+
+#primercajon{
+    position: relative;
+    left: 40px;
+}
+
+#segundocajon{
+    position: relative;
+    left: 200px;
+}
+
+
+
+#imagen{
+    position: relative;
+    bottom: 80px;
+    left: 450px;
+    width: 180px;
+    height: 180px;
+}
+
+#imagen2{
+    position: relative;
+    bottom: 80px;
+    right:  210px;
+    width: 180px;
+    height: 180px;
 }
