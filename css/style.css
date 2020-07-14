@@ -1,6 +1,6 @@
 #navega li{
     display:inline;
-    padding-right: 40px;
+    padding-right: 100px;
 
 }
 
@@ -18,7 +18,7 @@
 #boton{
     text-align: center;
     position: relative;
-    left: 100px;
+    left: 150px;
     width: 120px;
     height: 40px;
     background-color:#575454;
@@ -43,16 +43,16 @@ a{
 
 #imagen{
     position: relative;
-    bottom: 80px;
-    left: 450px;
+    bottom: 150px;
+    left: 650px;
     width: 180px;
     height: 180px;
 }
 
 #imagen2{
     position: relative;
-    bottom: 80px;
-    right:  210px;
+    bottom: 150px;
+    right:  190px;
     width: 180px;
     height: 180px;
 }
