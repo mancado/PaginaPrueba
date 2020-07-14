@@ -1,0 +1,77 @@
+#navega li{
+    display:inline;
+    padding-right: 100px;
+
+}
+
+#tudoc{
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+
+#medico{
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+#boton{
+    text-align: center;
+    position: relative;
+    left: 150px;
+    width: 120px;
+    height: 40px;
+    background-color:#575454;
+    color: white;
+}
+
+a{
+    text-align: justify;
+}
+
+#primercajon{
+    position: relative;
+    left: 40px;
+}
+
+#segundocajon{
+    position: relative;
+    left: 230px;
+}
+
+
+
+#imagen{
+    position: relative;
+    bottom: 150px;
+    left: 650px;
+    width: 180px;
+    height: 180px;
+}
+
+#imagen2{
+    position: relative;
+    bottom: 150px;
+    right:  190px;
+    width: 180px;
+    height: 180px;
+}
+
+#imagen3{
+    position: relative;
+    bottom: 40px;
+    width: 130px;
+    height: 90px;
+    right:  180px;
+}
+
+footer{
+    position: relative;
+    left: 70px;
+}
+
+#julian{
+    position: relative;
+    left: 760px;
+    
+}
